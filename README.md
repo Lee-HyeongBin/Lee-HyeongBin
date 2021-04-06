@@ -4,11 +4,17 @@
 
 👋 Hello My name is Hyeongbin. I am a student at Sogang University 👨‍💼
 
+
 My major is Mathematics and I've been studying Data Science 👩‍💻
+
 Since 2020, I have experienced lots of projects using Python, R
+
 I'm very interested in ML/DL. Here is my career introduction in below
 
 ### 💚 Career
+
 ### 🔧 Tech Stack
+
 ### 📑 Certification
+
 ### 📌 Contact
